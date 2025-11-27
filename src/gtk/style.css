@@ -492,6 +492,10 @@ window.flathub {
   --flag-gradient: linear-gradient(to bottom, #FF9CCE 0%, #FF9CCE 20%, #FF52BF 20%, #FF52BF 40%, #200044 40%, #200044 60%, #675FFF 60%, #675FFF 80%, #8DA7FF 80%, #8DA7FF 100%);
 }
 
+.accent-button.lithuanian-theme {
+  --flag-gradient: linear-gradient(to bottom, #FFB81C 0%, #FFB81C 33.333%, #046A38 33.333%, #046A38 66.666%, #BE3A34 66.666%, #BE3A34 100%);
+}
+
 /* Category buttons styling modified from GNOME Software*/
 .category-tile {
   font-weight: 700;

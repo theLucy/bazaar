@@ -33,14 +33,6 @@ static const BarTheme bar_themes[] = {
   { "pride-rainbow-flag", "pride-rainbow-theme",             N_ ("Pride Colors") },
   { "lesbian-pride-flag", "lesbian-pride-theme",     N_ ("Lesbian Pride Colors") },
   {   "transgender-flag",   "transgender-theme", N_ ("Transgender Pride Colors") },
-  {     "nonbinary-flag",     "nonbinary-theme",   N_ ("Nonbinary Pride Colors") },
-  {      "bisexual-flag",      "bisexual-theme",    N_ ("Bisexual Pride Colors") },
-  {       "asexual-flag",       "asexual-theme",     N_ ("Asexual Pride Colors") },
-  {     "pansexual-flag",     "pansexual-theme",   N_ ("Pansexual Pride Colors") },
-  {     "aromantic-flag",     "aromantic-theme",   N_ ("Aromantic Pride Colors") },
-  {   "genderfluid-flag",   "genderfluid-theme", N_ ("Genderfluid Pride Colors") },
-  {    "polysexual-flag",    "polysexual-theme",  N_ ("Polysexual Pride Colors") },
-  {    "omnisexual-flag",    "omnisexual-theme",  N_ ("Omnisexual Pride Colors") },
   {    "lithuanian-flag",    "lithuanian-theme",  N_ ("Lithuanian Pride Colors") },
 };
 
